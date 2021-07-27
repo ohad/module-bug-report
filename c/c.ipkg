@@ -1,0 +1,6 @@
+package c
+
+depends = a, b
+
+modules = Client
+        , IndirectClient

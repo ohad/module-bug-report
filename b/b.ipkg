@@ -1,0 +1,4 @@
+package b
+
+modules = Data.Structure
+        , ModuleB
